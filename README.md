@@ -85,4 +85,7 @@
 | Learning Apache Thrift       | Krzysztof Rakowski   | to do |
 | Big Data: Principles and best practices of scalable realtime data systems       | Nathan Marz    | to do |
 | Pro Git       | Scott Chacon    | read |
-| Clean Code: A Handbook of Agile Software Craftsmanship       | Robert C. Martin     | read |
+| The Art of Computer Programming: Vol. 1: Fundamental Algorithms       | Donald E. Knuth     | read |
+| The Art of Computer Programming: Vol. 2: Seminumerical Algorithm       | Donald E. Knuth     | to do |
+| The Art of Computer Programming: Vol. 3: Sorting and Searching       | Donald E. Knuth     | to do |
+| The Art of Computer Programming: Vol. 4: Combinatorial Algorithms       | Donald E. Knuth     | to do |
