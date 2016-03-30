@@ -45,7 +45,7 @@
 
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
-| The Go Programming Language       | Alan A. A. Donovan   | read |
+| The Go Programming Language       | Alan A. A. Donovan   | in progress |
 
 ### PostgreSQL
 
