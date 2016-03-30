@@ -38,8 +38,14 @@
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
 | Programming Erlang       | Joe Armstrong   | read |
-| Programming Erlang. 2th edition       | Joe Armstrong   | in progress |
-| Erlang and OTP in Action       | Martin Logan   | in progress |
+| Programming Erlang. 2th edition       | Joe Armstrong   | suspended |
+| Erlang and OTP in Action       | Martin Logan   | suspended |
+
+### Go
+
+| Title         | Author          | Status  |
+| ------------- |:-------------:  | -----:|
+| The Go Programming Language       | Alan A. A. Donovan   | read |
 
 ### PostgreSQL
 
@@ -54,7 +60,7 @@
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
 | RabbitMQ in Action       | Alvaro Videla   | read |
-| Enterprise Integration Pattern       | Gregor Hohpe   | in progress |
+| Enterprise Integration Pattern       | Gregor Hohpe   | suspended |
 
 ### Nginx
 
