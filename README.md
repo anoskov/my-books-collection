@@ -45,7 +45,7 @@
 
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
-| The Go Programming Language       | Alan A. A. Donovan   | in progress |
+| The Go Programming Language       | Alan A. A. Donovan   | read |
 
 ### PostgreSQL
 
@@ -88,6 +88,7 @@
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
 | Structure and Interpretation of Computer Programs - 2nd Edition       | Harold Abelson     | read |
+| Compilers: Principles, Techniques, & Tools - 2nd Edition | Alfred V. Aho | in progress
 | Learning Apache Thrift       | Krzysztof Rakowski   | to do |
 | Big Data: Principles and best practices of scalable realtime data systems       | Nathan Marz    | to do |
 | Pro Git       | Scott Chacon    | read |
