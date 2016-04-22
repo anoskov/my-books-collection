@@ -39,7 +39,7 @@
 | ------------- |:-------------:  | -----:|
 | Programming Erlang       | Joe Armstrong   | read |
 | Programming Erlang. 2th edition       | Joe Armstrong   | read |
-| Erlang and OTP in Action       | Martin Logan   | suspended |
+| Erlang and OTP in Action       | Martin Logan   | read |
 
 ### Go
 
