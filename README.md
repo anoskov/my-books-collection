@@ -88,7 +88,7 @@
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
 | Structure and Interpretation of Computer Programs - 2nd Edition       | Harold Abelson     | read |
-| Compilers: Principles, Techniques, & Tools - 2nd Edition | Alfred V. Aho | in progress
+| Compilers: Principles, Techniques, & Tools - 2nd Edition | Alfred V. Aho | read
 | Learning Apache Thrift       | Krzysztof Rakowski   | to do |
 | Big Data: Principles and best practices of scalable realtime data systems       | Nathan Marz    | to do |
 | Pro Git       | Scott Chacon    | read |
