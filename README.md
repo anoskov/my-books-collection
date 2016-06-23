@@ -22,7 +22,7 @@
 
 | Title         | Author          | Status  |
 | ------------- |:-------------:  | -----:|
-| C++ Primer 5th edition       | Stanley B. Lippman   | in progress |
+| C++ Primer 5th edition       | Stanley B. Lippman   | suspended |
 | Effective Modern C++      | Scott Meyers        |   todo |
 | OpenCV by Example      | Prateek Joshi        |   read |
 
@@ -40,6 +40,14 @@
 | Programming Erlang       | Joe Armstrong   | read |
 | Programming Erlang. 2th edition       | Joe Armstrong   | read |
 | Erlang and OTP in Action       | Martin Logan   | read |
+
+### Elixir
+
+| Title         | Author          | Status  |
+| ------------- |:-------------:  | -----:|
+| Programming Elixir       | Dave Thomas   | read |
+| Programming Phoenix       | Chris McCord, Bruce Tate, and José Valim   | read |
+| Metaprogramming Elixir       | Chris McCord   | read |
 
 ### Go
 
@@ -93,6 +101,6 @@
 | Big Data: Principles and best practices of scalable realtime data systems       | Nathan Marz    | to do |
 | Pro Git       | Scott Chacon    | read |
 | The Art of Computer Programming: Vol. 1: Fundamental Algorithms       | Donald E. Knuth     | read |
-| The Art of Computer Programming: Vol. 2: Seminumerical Algorithm       | Donald E. Knuth     | in progress |
+| The Art of Computer Programming: Vol. 2: Seminumerical Algorithm       | Donald E. Knuth     | read |
 | The Art of Computer Programming: Vol. 3: Sorting and Searching       | Donald E. Knuth     | to do |
 | The Art of Computer Programming: Vol. 4: Combinatorial Algorithms       | Donald E. Knuth     | to do |
